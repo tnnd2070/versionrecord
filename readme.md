@@ -9,6 +9,9 @@
 ### 测试
 go run .\main.go -file1 test/hxpre_pkgversion_2021121921.csv -file2 test/hxpro_pkgversion_2021121921.csv
 
+### recordpg 编译
+`sh build.sh`
+
 ### postgresql 初始化
 
 #### pg启动
