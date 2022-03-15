@@ -1,0 +1,1 @@
+GOOS=linux GOARCH=386 CGO_ENABLED=0 go build -ldflags "-X main.version=v0.3" -o recordpg.linux recordpg.go

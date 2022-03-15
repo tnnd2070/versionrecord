@@ -1,0 +1,7 @@
+sysname,unitname,hostname,ip,createtime,comefrom,pkgfile,version
+WPA010,coged_ap,za1cogedapap001,10.25.100.129,2021-09-01/09:24:49.828845584,from_path,/home/ap/appoper/WPA010_COGED_AP-A-1.0.0-210825-1641.HF-1030-A.tar.gz,1.0.0
+WPA010,coged_ap,za1cogedapap002,10.25.36.98,,nomatch,nofile,0.0.0
+WPA010,coged_ap,za1cogedapap003,10.25.36.49,2021-09-03/11:22:03.879643244,from_path,/home/ap/appoper/WPA010_COGED_AP-A-1.0.0-210825-1641.HF-1030-A.tar.gz,1.0.1
+WPA010,coged_ap,za1cogedapap004,10.25.37.244,,nomatch,nofile,0.0.0
+WPA010,coged_ap,za1cogedapap005,10.25.101.217,,nomatch,nofile,0.0.0
+WPA010,coged_ap,za1cogedapap006,10.25.101.247,,nomatch,nofile,0.0.0
